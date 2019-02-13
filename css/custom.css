@@ -1,0 +1,25 @@
+header#header {
+    background-color: #414141;
+}
+
+#nav-menu-container {
+    color: white;
+}
+.nav-menu a {
+    color: white;
+    font-weight: normal;
+}
+.nav-menu li:hover > a, .nav-menu .menu-active > a {
+    font-weight: bold;
+    color: white;
+}
+
+.text-red {
+    color: #e20000;
+}
+.bg-red {
+    background-color: #bb2526;
+}
+footer {
+    background-color: #e0e0e0;
+}
