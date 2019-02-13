@@ -14,6 +14,16 @@ header#header {
     color: white;
 }
 
+.round-icon {
+    background-color: #be0000;
+    color: white;
+    width: 140px;
+    height: 140px;
+    padding: 20px 44px;
+    border-radius: 70px;
+    font-size: 70px;
+    line-height: 1.33;
+}
 .text-red {
     color: #e20000;
 }
